@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1769520556135,
+      "tag": "0000_flimsy_bloodstrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1769520628373,
+      "tag": "0001_calm_ultimo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1769524606699,
+      "tag": "0002_lethal_firebrand",
+      "breakpoints": true
+    }
+  ]
+}
